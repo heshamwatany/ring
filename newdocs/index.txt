@@ -1,0 +1,22 @@
+Welcome! Ring Language Documentation.
+===================================================
+
+As easy as it looks.::
+    
+    see 'Hello World!'
+    >>Hello World!
+
+
+Contents
+*****
+.. toctree::
+   :maxdepth: 2
+
+   license
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
